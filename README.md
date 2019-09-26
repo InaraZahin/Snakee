@@ -1,2 +1,2 @@
 # Snakee
-The legendary snake game
+The legendary snake game. Run the c code and you will know the instructions.
